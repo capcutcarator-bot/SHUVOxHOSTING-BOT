@@ -1,0 +1,9 @@
+data.json
+data.json.tmp
+hosted_projects/
+.runtime/
+.github_token
+.hosting_bot.lock
+*.log
+*.pid
+__pycache__/
